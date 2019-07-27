@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "jsondoc.packages[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'jsondoc.packages[1]'"
+  },
+  {
+    "name": "jsondoc.packages[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'jsondoc.packages[0]'"
+  },
+  {
+    "name": "jsondoc.version",
+    "type": "java.lang.String",
+    "description": "A description for 'jsondoc.version'"
+  },
+  {
+    "name": "jsondoc.basePath",
+    "type": "java.lang.String",
+    "description": "A description for 'jsondoc.basePath'"
+  }
+]}
